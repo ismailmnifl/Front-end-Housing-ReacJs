@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "1,000,000",
+    "address": "Spring Hill, Florida(FL), 34607"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "1,000,000",
+    "address": "Deer Park, Texas(TX), 77536"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "1,000,000",
+    "address": "Monroe, Georgia(GA), 30655"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "1,000,000",
+    "address": "Marcellus, Michigan(MI), 49067"
+  }
+]
